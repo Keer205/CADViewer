@@ -44,7 +44,7 @@ cd cad-viewer
 #### 2. Install Dependencies
 **For Frontend:**
 ```bash
-cd frontend
+cd cad-viewer
 npm install
 ```
 **For Backend:**
