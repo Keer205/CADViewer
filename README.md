@@ -38,7 +38,7 @@ Ensure you have the following installed:
 #### 1. Clone the Repository
 ```bash
 git clone https://github.com/your-repo/cad-viewer.git
-cd cad-viewer
+cd CAD_PROJECT
 ```
 
 #### 2. Install Dependencies
